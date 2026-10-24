@@ -50,6 +50,9 @@ An interactive Excel dashboard built to analyze sales performance, profitability
 4. Use the slicers to filter the analysis by region, customer segment, category, and order year.
 5. Explore the charts and KPIs to identify business trends.
 
+## Dashboard Preview
+
+
 ## Project Objective
 The objective of this project is to demonstrate practical Excel skills for a Data Analyst role, including data analysis, interactive reporting, visualization, and communicating business insights.
 
