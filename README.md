@@ -51,6 +51,7 @@ An interactive Excel dashboard built to analyze sales performance, profitability
 5. Explore the charts and KPIs to identify business trends.
 
 ## Dashboard Preview
+<img width="1381" height="957" alt="image" src="https://github.com/user-attachments/assets/9d387306-7052-4bc9-89bc-2f6448ca8c99" />
 
 
 ## Project Objective
