@@ -40,8 +40,8 @@ An interactive Excel dashboard built to analyze sales performance, profitability
 *Note: Total Records represents the number of records counted in the analysis, not necessarily the number of unique orders.*
 
 ## Files Included
-- `Superstore_Sales_Profit_Dashboard.xlsx` — Excel workbook containing the interactive dashboard and supporting sheets.
-- `dashboard_preview.png` — Dashboard screenshot, if included in the repository.
+- `Superstore_Sales_Analysis_Dashboard.xlsx` — Excel workbook containing the interactive dashboard and supporting sheets.
+- `dashboard_full_preview.png` — Dashboard screenshot, if included in the repository.
 
 ## How to Use
 1. Download the Excel workbook from this repository.
